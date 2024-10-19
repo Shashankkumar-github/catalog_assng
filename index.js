@@ -57,5 +57,5 @@ function processTestCase(filePath) {
   });
 }
 
-processTestCase("testCase1.json");
-processTestCase("testCase2.json");
+processTestCase("testcase1.json");
+processTestCase("testcase2.json");
